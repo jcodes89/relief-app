@@ -11,7 +11,7 @@ export default function AdminNavbar() {
                 <Link className="btn btn-square mx-4" href={'/admin/dashboard/profile'}>Profile</Link>
             </li>
             <li className={styles.navLink}>
-                <Link className="btn btn-square mx-4 mr-10" href={'/admin/dashboard/view-volunteers'}>Volunteers</Link>
+                <Link className="btn btn-square mx-4 mr-10" href={'/admin/dashboard/volunteers'}>Volunteers</Link>
             </li>
         </nav>
             
